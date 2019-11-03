@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 59)
+    (drawings 58)
     (tracks 296)
     (zones 0)
     (modules 49)
@@ -34,7 +34,7 @@
   )
 
   (setup
-    (last_trace_width 0.5)
+    (last_trace_width 0.25)
     (user_trace_width 0.5)
     (user_trace_width 1)
     (trace_clearance 0.2)
@@ -3583,7 +3583,6 @@
     (arrow2a (pts (xy 7.112 10.922) (xy 6.525579 12.048504)))
     (arrow2b (pts (xy 7.112 10.922) (xy 7.698421 12.048504)))
   )
-  (target plus (at 18.288 10.922) (size 5) (width 0.15) (layer Edge.Cuts))
   (gr_arc (start 111.252 30.48) (end 109.982 30.48) (angle -180) (layer Edge.Cuts) (width 0.15))
   (gr_arc (start 111.252 14.224) (end 112.522 14.224) (angle -180) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 112.522 30.48) (end 112.522 14.224) (layer Edge.Cuts) (width 0.2))
